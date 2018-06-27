@@ -15,7 +15,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-            button1.Text = "hihello";
+            button1.Text = "hihellohow r u";
         }
     }
 }
