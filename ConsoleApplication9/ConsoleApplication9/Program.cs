@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication6
+namespace ConsoleApplication9
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("aaaaaa");
+            Console.Write("hii");
         }
     }
 }
